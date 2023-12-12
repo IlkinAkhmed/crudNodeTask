@@ -1,0 +1,144 @@
+[
+    {
+        "id": 1,
+        "image": "https://dt-ezyrider.myshopify.com/cdn/shop/products/shop-13.png?v=1676708125",
+        "title": "Helmet With Rear Light",
+        "price": 50,
+        "color": "Black",
+        "weight": 0.200,
+        "type": "FAIRY",
+        "total": 50
+    },
+    {
+        "id": 2,
+        "image": "https://dt-ezyrider.myshopify.com/cdn/shop/products/shop-12.png?v=1676708017",
+        "title": "Motorbike Powerlet Plug",
+        "price": 60,
+        "color": "Black",
+        "power": 450,
+        "weight": 0.100,
+        "type": "CREATION",
+        "total": 60
+    },
+    {
+        "id": 3,
+        "image": "https://dt-ezyrider.myshopify.com/cdn/shop/products/shop-7.png?v=1676706862&width=360",
+        "title": "DGWH2C/2S Bike Motor",
+        "price": 200,
+        "color": "Black",
+        "power": 450,
+        "weight": 1,
+        "type": "VALLEY",
+        "total": 200
+    },
+    {
+        "id": 4,
+        "image": "https://dt-ezyrider.myshopify.com/cdn/shop/products/shop-10.png?v=1676707903",
+        "title": "48V 20.3 Ah E-Bike Battery",
+        "price": 250,
+        "color": "Black",
+        "power": 250,
+        "weight": 2,
+        "type": "PLEASURE",
+        "total": 250
+    },
+    {
+        "id": 5,
+        "image": "https://dt-ezyrider.myshopify.com/cdn/shop/products/shop-11.png?v=1676707969&width=360",
+        "title": "Electric Bike Downtube Battery",
+        "price": 400,
+        "color": "Black",
+        "power": 350,
+        "weight": 2,
+        "type": "VALLEY",
+        "total": 400
+    },
+    {
+        "id": 6,
+        "image": "https://dt-ezyrider.myshopify.com/cdn/shop/products/shop-8.png?v=1676706909&width=713",
+        "title": "340 Lgnition Coil",
+        "price": 50,
+        "color": "Black",
+        "power": 550,
+        "weight": 1,
+        "type": "FAIRY",
+        "total": 50
+    },
+    {
+        "id": 7,
+        "image": "https://dt-ezyrider.myshopify.com/cdn/shop/products/shop-9.png?v=1676707862&width=940",
+        "title": "E-Bike Charger Set",
+        "price": 300,
+        "color": "Black",
+        "power": 450,
+        "weight": 52,
+        "type": "FAIRY",
+        "total": 300
+    },
+    {
+        "id": 8,
+        "image": "https://dt-ezyrider.myshopify.com/cdn/shop/products/shop-1.png?v=1676705999&width=940",
+        "title": "Helmet With Rear Light",
+        "price": 50,
+        "color": "Blue",
+        "power": 550,
+        "weight": 50,
+        "type": "PLEASURE",
+        "total": 50
+    },
+    {
+        "id": 9,
+        "image": "https://dt-ezyrider.myshopify.com/cdn/shop/products/shop-5_b70b265e-4c9d-4858-adfb-fc404dc326da.png?v=1676706363",
+        "title": "Motorbike Powerlet Plug",
+        "price": 60,
+        "color": "Grey",
+        "power": 250,
+        "weight": 5,
+        "type": "CREATION",
+        "total": 60
+    },
+    {
+        "id": 10,
+        "image": "https://dt-ezyrider.myshopify.com/cdn/shop/products/shop-3.png?v=1676706196&width=360",
+        "title": "DGWH2C/2S Bike Motor",
+        "price": 200,
+        "color": "Black",
+        "power": 550,
+        "weight": 5,
+        "type": "FAIRY",
+        "total": 200
+    },
+    {
+        "id": 11,
+        "image": "https://dt-ezyrider.myshopify.com/cdn/shop/products/shop-4.png?v=1676706253&width=713",
+        "title": "48V 20.3 Ah E-Bike Battery",
+        "price": 250,
+        "color": "Orange",
+        "power": 250,
+        "weight": 7,
+        "type": "CREATION",
+        "total": 250
+    },
+    {
+        "id": 12,
+        "image": "https://dt-ezyrider.myshopify.com/cdn/shop/products/shop-6_3a1f3c8e-bf3c-41e4-a5d9-a8073e306383.png?v=1676706596&width=360",
+        "title": "Electric Bike Downtube Battery",
+        "price": 400,
+        "color": "Yellow",
+        "power": 650,
+        "weight": 4,
+        "type": "FAIRY",
+        "total": 400
+    },
+    {
+        "id": 13,
+        "image": "https://dt-ezyrider.myshopify.com/cdn/shop/products/shop-2.png?v=1676706151&width=713",
+        "title": "340 Lgnition Coil",
+        "price": 50,
+        "color": "Orange",
+        "power": 450,
+        "weight": 7,
+        "type": "PLEASURE",
+        "total": 50
+    }
+]
